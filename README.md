@@ -9,3 +9,5 @@ Take the data from the Kaggle badminton match or BWF tournamnet match from that 
 Coaches, Analysts or team managers can use a simple dashboard from where they can analyze opponent strengths before matches and adjust the strategies and evulate performace after matches.
 ##Coonection to chapter 7
 This project is in creative phase in which idea are defined but has not yet been tested or implemented. The focus is on identifying a analtyics opprtunity before building or prototyping.
+##Prototype evulation
+The prototype should be integrated because the momentum score adds valuable context but needs testing to ensure it reliability to reflect real performance trends. Feedback that are needed: Do coaches find momnetum insights useful?, Does it improve match preparation decisions?
