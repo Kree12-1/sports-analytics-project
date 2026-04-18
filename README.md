@@ -15,4 +15,6 @@ What is being altered: Overall performance across rounds is tracked by the origi
 Why making better decisions could result from this: In order to prepare for elimination rounds, coaches must be aware of an opponent's tendency to improve or deteriorate under pressure. An opponent that continuously outperforms in game 3 is tactically distinct from one whose performance deteriorates under pressure.
 # Prototype evaluation:
 The prototype should be integrated because the momentum score adds valuable context, but needs testing to ensure its reliability to reflect real performance trends. Feedback that is needed: Do coaches find momentum insights useful? Does it improve match preparation decisions?
+# Reflection on Innovation and Version Control
+It shows that analytics success depends not just on ideas, but on iteration, testing, and adoption. GitHub provides transparency, version tracking, and structured updates. This makes it easier to communicate ideas and shows progress to decision-makers. Branches allow analysts to test new ideas without affecting the main project. This is connected to Chapter 7 because of creative idea development, prototyping to test enhancements, and building to integrate successful ideas.
 
