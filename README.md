@@ -17,9 +17,9 @@ Let the following variables be defined for a given player in a match that reache
 - $P_{g}$ = points won by the player in game $g$
 - $T_{g}$ = total points played in game $g$
 - $R_{g} = \dfrac{P_{g}}{T_{g}}$ = point-winning rate in game $g$
-The **baseline rate** across games 1 and 2 is:
+The baseline rate across games 1 and 2 is:
 $$R_{\text{baseline}} = \frac{P_1 + P_2}{T_1 + T_2}$$
-The **Pressure Performance Score** is then defined as the difference between the player's game 3 rate and their baseline rate:
+The Pressure Performance Score is then defined as the difference between the player's game 3 rate and their baseline rate:
 $$\text{PPS} = R_3 - R_{\text{baseline}} = \frac{P_3}{T_3} - \frac{P_1 + P_2}{T_1 + T_2}$$
 ### Interpretation
 | PPS Value | Meaning |
